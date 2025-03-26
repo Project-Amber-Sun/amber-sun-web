@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gm0oL2swm3w=",
+  "success": true,
+  "projectFilePath": "/Users/sunnyrohloff/Documents/GitHub/amber-sun-web/AmberSun.Api/AmberSun.Api/AmberSun.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/sunnyrohloff/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/sunnyrohloff/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
