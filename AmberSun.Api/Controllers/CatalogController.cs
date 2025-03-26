@@ -1,4 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
+
+using Amber-Sun-Web.Domain.Catalog;
+
+namespace Amber-Sun-Web.Api.Controllers;
+
 using AmberSun.Api.Domain.Catalog;
 
 namespace AmberSun.Api.Controllers;
@@ -49,5 +54,11 @@ public class CatalogController : ControllerBase
     {
         return NoContent();
     }
+}
+
+{httpDelete("{id:int}")]
+public IActionResult DeleteItem(int id)
+{
+    return NoContent();
 }
 
