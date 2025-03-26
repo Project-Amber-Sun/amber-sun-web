@@ -1,14 +1,15 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import Home from "./Home/Home";
-<<<<<<< HEAD
 import Product from "./Products/Products"; 
-=======
+
 import Product from "./Products/Products";
 import Orders from './Orders/Orders'
 import OrderDetail from './Orders/OrderDetails'
 import Payment from './Payment/Payment'
->>>>>>> 4c5f318477f6e282f44149dda43af67b844f5762
+
+4c5f318477f6e282f44149dda43af67b844f5762
+
 
 import './App.css';
 
@@ -19,7 +20,7 @@ function App() {
 
   const closeMenu = () => {
     document.querySelector(".sidebar")?.classList.remove("open");
-<<<<<<< HEAD
+
   }
   
   return (
@@ -29,7 +30,7 @@ function App() {
             <button onclick="openMenu()">&#9776;</button>
             <a href="index.html">Amber Sun</a>
         </div>
-=======
+
   };
 
   return (
@@ -58,7 +59,9 @@ function App() {
         </main>
       </div>
     </Router>
->>>>>>> 4c5f318477f6e282f44149dda43af67b844f5762
+
+ 4c5f318477f6e282f44149dda43af67b844f5762
+
   );
 }
 
