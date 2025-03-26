@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using YOUR_PROJECT_NAME.Domain.Catalog;
+using Amber-Sun-Web.Domain.Catalog;
 
-namespace YOUR_PROJECT_NAME.Api.Controllers;
+namespace Amber-Sun-Web.Api.Controllers;
 
 [ApiController]
 [Route("catalog")]
@@ -19,4 +19,9 @@ public class CatalogController : ControllerBase
     {
         return Ok(Items);
     }
+}
+{httpDelete("{id:int}")]
+public IActionResult DeleteItem(int id)
+{
+    return NoContent();
 }
