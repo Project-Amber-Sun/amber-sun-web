@@ -1,6 +1,6 @@
 using System;
 
-namespace Amber.Sun.Domain.Catalog
+namespace AmberSun.Domain.Catalog
 public Item(string name, string description, string brand, decimal price)
 {
     if (string.IsNullOrWhiteSpace(name))
