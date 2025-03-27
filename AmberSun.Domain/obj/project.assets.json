@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web\\AmberSun.Domain\\AmberSun.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web-1\\AmberSun.Domain\\AmberSun.Domain.csproj",
       "projectName": "AmberSun.Domain",
-      "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web\\AmberSun.Domain\\AmberSun.Domain.csproj",
+      "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web-1\\AmberSun.Domain\\AmberSun.Domain.csproj",
       "packagesPath": "C:\\Users\\cjsea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web\\AmberSun.Domain\\obj\\",
+      "outputPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web-1\\AmberSun.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cjsea\\AppData\\Roaming\\NuGet\\NuGet.Config"

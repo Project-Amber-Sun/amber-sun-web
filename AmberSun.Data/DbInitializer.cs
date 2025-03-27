@@ -1,5 +1,5 @@
 using AmberSun.Domain.Catalog;
-uisng Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 
 namespace AmberSun.Data
 {

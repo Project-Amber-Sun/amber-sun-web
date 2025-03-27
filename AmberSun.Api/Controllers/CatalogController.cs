@@ -70,7 +70,7 @@ public class CatalogController : ControllerBase
     }
 }
 
-{httpDelete("{id:int}")]
+[HttpDelete("{id:int}")]
 public IActionResult DeleteItem(int id)
 {
     return NoContent();

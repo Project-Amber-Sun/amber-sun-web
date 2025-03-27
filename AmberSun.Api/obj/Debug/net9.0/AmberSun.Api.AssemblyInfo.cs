@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmberSun.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c442b9bf2bd90cdd3ff4ca0fbed1c3f7643e020")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09465e05ac359cb4bd567b487cba969ec022511a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmberSun.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmberSun.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

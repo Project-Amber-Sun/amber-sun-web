@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using AmberSun.Domain.catalog;  // Make sure to add the correct namespace for your domain models
+using AmberSun.Domain.Catalog;  // Make sure to add the correct namespace for your domain models
 
 namespace AmberSun.Data
 {
