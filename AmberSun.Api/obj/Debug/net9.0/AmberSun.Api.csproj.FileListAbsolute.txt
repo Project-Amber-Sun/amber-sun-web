@@ -37,3 +37,6 @@ C:\Users\andre\repos\amber-sun-web\AmberSun.Api\bin\Debug\net9.0\AmberSun.Domain
 C:\Users\cjsea\OneDrive - The Ohio State University\amber-sun-web\AmberSun.Api\obj\Debug\net9.0\AmberSun.Api.dll
 C:\Users\cjsea\OneDrive - The Ohio State University\amber-sun-web\AmberSun.Api\obj\Debug\net9.0\refint\AmberSun.Api.dll
 C:\Users\cjsea\OneDrive - The Ohio State University\amber-sun-web\AmberSun.Api\obj\Debug\net9.0\AmberSun.Api.pdb
+C:\Users\cjsea\OneDrive - The Ohio State University\SP25\Bus Sys App Dev\repos\amber-sun-web\AmberSun.Api\obj\Debug\net9.0\AmberSun.Api.dll
+C:\Users\cjsea\OneDrive - The Ohio State University\SP25\Bus Sys App Dev\repos\amber-sun-web\AmberSun.Api\obj\Debug\net9.0\refint\AmberSun.Api.dll
+C:\Users\cjsea\OneDrive - The Ohio State University\SP25\Bus Sys App Dev\repos\amber-sun-web\AmberSun.Api\obj\Debug\net9.0\AmberSun.Api.pdb

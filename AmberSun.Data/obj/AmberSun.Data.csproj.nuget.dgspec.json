@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web\\AmberSun.Data\\AmberSun.Data.csproj": {}
+    "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web\\AmberSun.Data\\AmberSun.data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web\\AmberSun.Data\\AmberSun.Data.csproj": {
+    "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web\\AmberSun.Data\\AmberSun.data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web\\AmberSun.Data\\AmberSun.Data.csproj",
-        "projectName": "AmberSun.Data",
-        "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web\\AmberSun.Data\\AmberSun.Data.csproj",
+        "projectUniqueName": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web\\AmberSun.Data\\AmberSun.data.csproj",
+        "projectName": "AmberSun.data",
+        "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web\\AmberSun.Data\\AmberSun.data.csproj",
         "packagesPath": "C:\\Users\\cjsea\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web\\AmberSun.Data\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,8 +1,22 @@
 using Microsoft.AspNetCore.Mvc;
+using AmberSun.Domain.Catalog;
+using AmberSun.Data;
 
-using Amber-Sun-Web.Domain.Catalog;
 
-namespace Amber-Sun-Web.Api.Controllers;
+namespace AmberSun.Api.Controllers;
+{
+    [ApiController]
+    [Route("/catalog")]
+    public class CatalogController : ControllerBase
+    {
+        private readonly StoreContext _db;
+
+        public CatalogController(StoreContext db)
+        {
+            _db = db;
+        }
+    }
+}
 
 using AmberSun.Api.Domain.Catalog;
 
@@ -22,7 +36,7 @@ public class CatalogController : ControllerBase
     [HttpGet]
     public IActionResult GetItems()
     {
-        return Ok(Items);
+        return Ok(_db.Items);
     }
    
     [HttpGet("{id:int}")]
