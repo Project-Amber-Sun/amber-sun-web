@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\repos\\amber-sun-web\\AmberSun.Api\\AmberSun.Api.csproj": {}
+    "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Api\\AmberSun.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\repos\\amber-sun-web\\AmberSun.Api\\AmberSun.Api.csproj": {
+    "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Api\\AmberSun.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\repos\\amber-sun-web\\AmberSun.Api\\AmberSun.Api.csproj",
+        "projectUniqueName": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Api\\AmberSun.Api.csproj",
         "projectName": "AmberSun.Api",
-        "projectPath": "C:\\Users\\andre\\repos\\amber-sun-web\\AmberSun.Api\\AmberSun.Api.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\repos\\amber-sun-web\\AmberSun.Api\\obj\\",
+        "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Api\\AmberSun.Api.csproj",
+        "packagesPath": "C:\\Users\\cjsea\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\cjsea\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -26,8 +26,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\andre\\repos\\amber-sun-web\\AmberSun.Domain\\AmberSun.Domain.csproj": {
-                "projectPath": "C:\\Users\\andre\\repos\\amber-sun-web\\AmberSun.Domain\\AmberSun.Domain.csproj"
+              "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Data\\AmberSun.Data.csproj": {
+                "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Data\\AmberSun.Data.csproj"
+              },
+              "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Domain\\AmberSun.Domain.csproj": {
+                "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Domain\\AmberSun.Domain.csproj"
               }
             }
           }
@@ -42,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -72,21 +75,84 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\andre\\repos\\amber-sun-web\\AmberSun.Domain\\AmberSun.Domain.csproj": {
+    "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Data\\AmberSun.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\repos\\amber-sun-web\\AmberSun.Domain\\AmberSun.Domain.csproj",
-        "projectName": "AmberSun.Domain",
-        "projectPath": "C:\\Users\\andre\\repos\\amber-sun-web\\AmberSun.Domain\\AmberSun.Domain.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\repos\\amber-sun-web\\AmberSun.Domain\\obj\\",
+        "projectUniqueName": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Data\\AmberSun.Data.csproj",
+        "projectName": "AmberSun.Data",
+        "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Data\\AmberSun.Data.csproj",
+        "packagesPath": "C:\\Users\\cjsea\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\cjsea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Domain\\AmberSun.Domain.csproj": {
+                "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Domain\\AmberSun.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Domain\\AmberSun.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Domain\\AmberSun.Domain.csproj",
+        "projectName": "AmberSun.Domain",
+        "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Domain\\AmberSun.Domain.csproj",
+        "packagesPath": "C:\\Users\\cjsea\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web\\AmberSun.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cjsea\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -110,7 +176,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -131,7 +197,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

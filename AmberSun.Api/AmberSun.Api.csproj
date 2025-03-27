@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AmberSun.Domain\AmberSun.Domain.csproj" />
+    <ProjectReference Include="..\AmberSun.Data\AmberSun.data.csproj" />
   </ItemGroup>
 
 </Project>
