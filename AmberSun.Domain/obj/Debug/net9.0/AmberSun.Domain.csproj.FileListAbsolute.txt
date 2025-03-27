@@ -10,3 +10,11 @@ C:\Users\andre\repos\amber-sun-web\AmberSun.Domain\obj\Debug\net9.0\AmberSun.Dom
 C:\Users\andre\repos\amber-sun-web\AmberSun.Domain\obj\Debug\net9.0\refint\AmberSun.Domain.dll
 C:\Users\andre\repos\amber-sun-web\AmberSun.Domain\obj\Debug\net9.0\AmberSun.Domain.pdb
 C:\Users\andre\repos\amber-sun-web\AmberSun.Domain\obj\Debug\net9.0\ref\AmberSun.Domain.dll
+C:\Users\cjsea\OneDrive - The Ohio State University\amber-sun-web\AmberSun.Domain\obj\Debug\net9.0\AmberSun.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjsea\OneDrive - The Ohio State University\amber-sun-web\AmberSun.Domain\obj\Debug\net9.0\AmberSun.Domain.AssemblyInfoInputs.cache
+C:\Users\cjsea\OneDrive - The Ohio State University\amber-sun-web\AmberSun.Domain\obj\Debug\net9.0\AmberSun.Domain.AssemblyInfo.cs
+C:\Users\cjsea\OneDrive - The Ohio State University\amber-sun-web\AmberSun.Domain\obj\Debug\net9.0\AmberSun.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cjsea\OneDrive - The Ohio State University\amber-sun-web\AmberSun.Domain\obj\Debug\net9.0\AmberSun.Domain.sourcelink.json
+C:\Users\cjsea\OneDrive - The Ohio State University\amber-sun-web\AmberSun.Domain\obj\Debug\net9.0\AmberSun.Domain.dll
+C:\Users\cjsea\OneDrive - The Ohio State University\amber-sun-web\AmberSun.Domain\obj\Debug\net9.0\refint\AmberSun.Domain.dll
+C:\Users\cjsea\OneDrive - The Ohio State University\amber-sun-web\AmberSun.Domain\obj\Debug\net9.0\AmberSun.Domain.pdb
