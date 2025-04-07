@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import Home from "./Home/Home";
 import Product from "./Products/Products"; 
 
-import Product from "./Products/Products";
 import Orders from './Orders/Orders'
 import OrderDetail from './Orders/OrderDetails'
 import Payment from './Payment/Payment'
@@ -24,10 +23,10 @@ function App() {
   }
   
   return (
-    <div class ="grid-container">
-    <header class = "header">
-        <div class="brand">
-            <button onclick="openMenu()">&#9776;</button>
+    <div className ="grid-container">
+    <header className = "header">
+        <div className="brand">
+            <button onClick={openMenu}>&#9776;</button>
             <a href="index.html">Amber Sun</a>
         </div>
 
@@ -61,6 +60,7 @@ function App() {
     </Router>
 
  4c5f318477f6e282f44149dda43af67b844f5762
+
 
   );
 }

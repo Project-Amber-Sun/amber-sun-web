@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web-1\\AmberSun.Domain\\AmberSun.Domain.csproj": {}
+    "/Users/sunnyrohloff/amber-sun-web/AmberSun.Domain/AmberSun.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web-1\\AmberSun.Domain\\AmberSun.Domain.csproj": {
+    "/Users/sunnyrohloff/amber-sun-web/AmberSun.Domain/AmberSun.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web-1\\AmberSun.Domain\\AmberSun.Domain.csproj",
+        "projectUniqueName": "/Users/sunnyrohloff/amber-sun-web/AmberSun.Domain/AmberSun.Domain.csproj",
         "projectName": "AmberSun.Domain",
-        "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web-1\\AmberSun.Domain\\AmberSun.Domain.csproj",
-        "packagesPath": "C:\\Users\\cjsea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web-1\\AmberSun.Domain\\obj\\",
+        "projectPath": "/Users/sunnyrohloff/amber-sun-web/AmberSun.Domain/AmberSun.Domain.csproj",
+        "packagesPath": "/Users/sunnyrohloff/.nuget/packages/",
+        "outputPath": "/Users/sunnyrohloff/amber-sun-web/AmberSun.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cjsea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/sunnyrohloff/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
