@@ -1112,7 +1112,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "AmberSun.data/1.0.0": {
+      "AmberSun.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
@@ -1120,10 +1120,10 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "9.0.3"
         },
         "compile": {
-          "bin/placeholder/AmberSun.data.dll": {}
+          "bin/placeholder/AmberSun.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AmberSun.data.dll": {}
+          "bin/placeholder/AmberSun.Data.dll": {}
         }
       },
       "AmberSun.Domain/1.0.0": {
@@ -3158,10 +3158,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "AmberSun.data/1.0.0": {
+    "AmberSun.Data/1.0.0": {
       "type": "project",
-      "path": "../AmberSun.Data/AmberSun.data.csproj",
-      "msbuildProject": "../AmberSun.Data/AmberSun.data.csproj"
+      "path": "../AmberSun.Data/AmberSun.Data.csproj",
+      "msbuildProject": "../AmberSun.Data/AmberSun.Data.csproj"
     },
     "AmberSun.Domain/1.0.0": {
       "type": "project",
@@ -3171,27 +3171,27 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "AmberSun.Data >= 1.0.0",
       "AmberSun.Domain >= 1.0.0",
-      "AmberSun.data >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 9.0.1",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.3",
       "Microsoft.EntityFrameworkCore.sqlite >= 9.0.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cjsea\\.nuget\\packages\\": {}
+    "/Users/sunnyrohloff/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web-1\\AmberSun.Api\\AmberSun.Api.csproj",
+      "projectUniqueName": "/Users/sunnyrohloff/amber-sun-web/AmberSun.Api/AmberSun.Api.csproj",
       "projectName": "AmberSun.Api",
-      "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web-1\\AmberSun.Api\\AmberSun.Api.csproj",
-      "packagesPath": "C:\\Users\\cjsea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web-1\\AmberSun.Api\\obj\\",
+      "projectPath": "/Users/sunnyrohloff/amber-sun-web/AmberSun.Api/AmberSun.Api.csproj",
+      "packagesPath": "/Users/sunnyrohloff/.nuget/packages/",
+      "outputPath": "/Users/sunnyrohloff/amber-sun-web/AmberSun.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cjsea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/sunnyrohloff/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -3203,11 +3203,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web-1\\AmberSun.Data\\AmberSun.data.csproj": {
-              "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web-1\\AmberSun.Data\\AmberSun.data.csproj"
+            "/Users/sunnyrohloff/amber-sun-web/AmberSun.Data/AmberSun.Data.csproj": {
+              "projectPath": "/Users/sunnyrohloff/amber-sun-web/AmberSun.Data/AmberSun.Data.csproj"
             },
-            "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web-1\\AmberSun.Domain\\AmberSun.Domain.csproj": {
-              "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\amber-sun-web-1\\AmberSun.Domain\\AmberSun.Domain.csproj"
+            "/Users/sunnyrohloff/amber-sun-web/AmberSun.Domain/AmberSun.Domain.csproj": {
+              "projectPath": "/Users/sunnyrohloff/amber-sun-web/AmberSun.Domain/AmberSun.Domain.csproj"
             }
           }
         }
@@ -3222,7 +3222,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -3262,7 +3262,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
