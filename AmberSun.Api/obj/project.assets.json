@@ -3179,19 +3179,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/sunnyrohloff/.nuget/packages/": {}
+    "C:\\Users\\cjsea\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sunnyrohloff/amber-sun-web/AmberSun.Api/AmberSun.Api.csproj",
+      "projectUniqueName": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web-1\\AmberSun.Api\\AmberSun.Api.csproj",
       "projectName": "AmberSun.Api",
-      "projectPath": "/Users/sunnyrohloff/amber-sun-web/AmberSun.Api/AmberSun.Api.csproj",
-      "packagesPath": "/Users/sunnyrohloff/.nuget/packages/",
-      "outputPath": "/Users/sunnyrohloff/amber-sun-web/AmberSun.Api/obj/",
+      "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web-1\\AmberSun.Api\\AmberSun.Api.csproj",
+      "packagesPath": "C:\\Users\\cjsea\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web-1\\AmberSun.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/sunnyrohloff/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\cjsea\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -3203,11 +3203,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/sunnyrohloff/amber-sun-web/AmberSun.Data/AmberSun.Data.csproj": {
-              "projectPath": "/Users/sunnyrohloff/amber-sun-web/AmberSun.Data/AmberSun.Data.csproj"
+            "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web-1\\AmberSun.Data\\AmberSun.Data.csproj": {
+              "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web-1\\AmberSun.Data\\AmberSun.Data.csproj"
             },
-            "/Users/sunnyrohloff/amber-sun-web/AmberSun.Domain/AmberSun.Domain.csproj": {
-              "projectPath": "/Users/sunnyrohloff/amber-sun-web/AmberSun.Domain/AmberSun.Domain.csproj"
+            "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web-1\\AmberSun.Domain\\AmberSun.Domain.csproj": {
+              "projectPath": "C:\\Users\\cjsea\\OneDrive - The Ohio State University\\SP25\\Bus Sys App Dev\\repos\\amber-sun-web-1\\AmberSun.Domain\\AmberSun.Domain.csproj"
             }
           }
         }
@@ -3222,7 +3222,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -3262,7 +3262,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

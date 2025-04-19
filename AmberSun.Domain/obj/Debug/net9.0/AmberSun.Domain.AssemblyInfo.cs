@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmberSun.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1e1e689a41d35ef17866feb421aee3113baa2ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+067f99b3923b4f1cb7fa0c95fa3ec44561f5fa69")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmberSun.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmberSun.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
